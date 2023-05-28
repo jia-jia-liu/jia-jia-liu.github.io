@@ -1,50 +1,50 @@
 {
     "peopo": {
         "PeoPo 公民新聞 獲選新聞": [
-            "https://www.peopo.org/video/611816/embed",
-            "https://www.peopo.org/video/615356/embed",
-            "https://www.peopo.org/video/618230/embed"
+            { "title": "全台第一減碳市集 盼大眾落實永續", "url": "https://www.peopo.org/video/611816/embed" },
+            { "title": "戀舊老物生活節 老靈魂的挖寶天堂", "url": "https://www.peopo.org/video/615356/embed" },
+            { "title": "網路時代的衝擊 傳統租書店風華不再", "url": "https://www.peopo.org/video/618230/embed" }
         ]
     },
     "youtube": {
         "節目": [
-            "https://youtu.be/SbDf0NeNRTI",
-            "https://youtu.be/tYFoNwn31hU"
+            { "title": "棒球員挑戰跨領域⚾️🆕熟悉又陌生的他到底是誰？", "url": "https://youtu.be/SbDf0NeNRTI" },
+            { "title": "實習防護員首次上工💪冠軍不負眾望就是他！", "url": "https://youtu.be/tYFoNwn31hU" }
         ],
         "主播大賽宣傳片": [
-            "https://youtu.be/lKL-2jtEFmg",
-            "https://youtu.be/UZdC6TPGi_Y"
+            { "title": "2023文化大學全國主播大賽【金牌主播】-比賽不要鬧(上)", "url": "https://youtu.be/lKL-2jtEFmg" },
+            { "title": "2023文化大學全國主播大賽【金牌主播】-比賽不要鬧(下)", "url": "https://youtu.be/UZdC6TPGi_Y" }
         ],
         "專題報導": [
-            "https://youtu.be/FxUBxVIEEPM"
+            { "title": "傳統店面——難能可貴的傳統 延續昔日珍貴光景", "url": "https://youtu.be/FxUBxVIEEPM" }
         ],
         "新聞報導": [
-            "https://youtu.be/UEV8RC_qNXg?t=195",
-            "https://youtu.be/-1B-fPLiFhM?t=170",
-            "https://youtu.be/EAm-07MkH74?t=160",
-            "https://youtu.be/5913uXHGBnI?t=45",
-            "https://youtu.be/lwYdQNk6Oj0?t=43",
-            "https://youtu.be/Ez-xcsQKcEw?t=286",
-            "https://youtu.be/hp9UFe-uCeg?t=172",
-            "https://youtu.be/5sp6Y2Zwe9I?t=386",
-            "https://youtu.be/ud5n7hZBwe0?t=189",
-            "https://youtu.be/Q9SHvt_OOf4?t=402",
-            "https://youtu.be/I_Ul32w6iGc?t=307",
-            "https://youtu.be/zTNnpnlw6rg?t=329",
-            "https://youtu.be/DreKrVYItZQ?t=182",
-            "https://youtu.be/qOUGkNY29lI?t=48",
-            "https://youtu.be/TNfB2d9znD8?t=443",
-            "https://youtu.be/Vo_Sc78g2F8?t=273",
-            "https://youtu.be/aKHBtyzJ4Ps?t=49",
-            "https://youtu.be/eoeEtU9QcIs?t=48",
-            "https://youtu.be/cMiTlc40dFA?t=320",
-            "https://youtu.be/_yCT7zzr5VE?t=184",
-            "https://youtu.be/JfB6D05pSeg?t=296",
-            "https://youtu.be/_wp1zBzmISc?t=405",
-            "https://youtu.be/PdV4kwvD1LA?t=48",
-            "https://youtu.be/KaUKEmd59lQ?t=287",
-            "https://youtu.be/_ELzMZJGETE?t=57",
-            "https://youtu.be/yTS1DtLFebo?t=174"
+            { "title": "波波異想市集 帶你一同出國旅行", "url": "https://youtu.be/UEV8RC_qNXg?t=195" },
+            { "title": "網路時代的衝擊 傳統租書店風華不再", "url": "https://youtu.be/-1B-fPLiFhM?t=170" },
+            { "title": "島嶼冬日祭 徜徉迷人日式氛圍", "url": "https://youtu.be/EAm-07MkH74?t=160" },
+            { "title": "歐洲聖誕市集 展現異國耶誕氛圍", "url": "https://youtu.be/5913uXHGBnI?t=45" },
+            { "title": "戀舊老物生活節 老靈魂的挖寶天堂", "url": "https://youtu.be/lwYdQNk6Oj0?t=43" },
+            { "title": "台灣國際咖啡展 「啡」來不可的盛會", "url": "https://youtu.be/Ez-xcsQKcEw?t=286" },
+            { "title": "樹人減碳生活市集 成為地球的守護者", "url": "https://youtu.be/hp9UFe-uCeg?t=172" },
+            { "title": "台灣國際茶業博覽會 南港盛大開展", "url": "https://youtu.be/5sp6Y2Zwe9I?t=386" },
+            { "title": "紅玥緬因貓藝廊 貓咪可愛爆擊", "url": "https://youtu.be/ud5n7hZBwe0?t=189" },
+            { "title": "秋季當令你好菜市集 超Chill登場", "url": "https://youtu.be/Q9SHvt_OOf4?t=402" },
+            { "title": "銀髮族健康樂活展 圓山爭艷會館舉行", "url": "https://youtu.be/I_Ul32w6iGc?t=307" },
+            { "title": "無包裝商店 環境友善減少浪費", "url": "https://youtu.be/zTNnpnlw6rg?t=329" },
+            { "title": "北市推熊好券2.0 盼振興疫後經濟", "url": "https://youtu.be/DreKrVYItZQ?t=182" },
+            { "title": "拎舟浪貓咪認養市集 Q萌登場", "url": "https://youtu.be/qOUGkNY29lI?t=48" },
+            { "title": "蔬素食產業博覽會 盛大登場", "url": "https://youtu.be/TNfB2d9znD8?t=443" },
+            { "title": "大稻埕搞怪啤酒節 萬聖節的熱鬧慶典 ", "url": "https://youtu.be/Vo_Sc78g2F8?t=273" },
+            { "title": "驚奇萬聖節 百鬼夜行狂歡美食派對", "url": "https://youtu.be/aKHBtyzJ4Ps?t=49" },
+            { "title": "台北蚤之市 古物收藏集散地", "url": "https://youtu.be/eoeEtU9QcIs?t=48" },
+            { "title": "花博農民市集 讓優質農產品被看見", "url": "https://youtu.be/cMiTlc40dFA?t=320" },
+            { "title": "万象咖啡廳 打造日式昭和風", "url": "https://youtu.be/_yCT7zzr5VE?t=184" },
+            { "title": "流浪藝術漫遊市集 文創攤販席捲士林 ", "url": "https://youtu.be/JfB6D05pSeg?t=296" },
+            { "title": "台北國際秋季旅展 世貿一館登場 ", "url": "https://youtu.be/_wp1zBzmISc?t=405" },
+            { "title": "台北國際製鞋機械展 盛大開展", "url": "https://youtu.be/PdV4kwvD1LA?t=48" },
+            { "title": "台北結婚博覽會 世貿一館登場", "url": "https://youtu.be/KaUKEmd59lQ?t=287" },
+            { "title": "台北國際塑橡膠工業展 盛大開展", "url": "https://youtu.be/_ELzMZJGETE?t=57" },
+            { "title": "疫情影響出國 業者力拼轉型", "url": "https://youtu.be/yTS1DtLFebo?t=174" }
         ]
     }
 }
